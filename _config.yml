@@ -17,9 +17,9 @@ favicon: favicon.png
 
 repository: jianbin91/jianbin91.github.io
 github_url: https://github.com/jianbin91
-cnblog_url: http://www.cnblogs.com/jianbin91
-url: http://jianbin91.github.io
-enforce_ssl: ityouknow.com
+cnblog_url: 
+url: a.fenfy.com
+enforce_ssl: 
 
 ## Gem
 plugins:
